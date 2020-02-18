@@ -1,0 +1,24 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "react": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryan-B-King/Udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryan-B-King/Udemy/issues"
+  },
+  "homepage": "https://github.com/Ryan-B-King/Udemy#readme"
+}
